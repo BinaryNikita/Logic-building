@@ -1,7 +1,5 @@
 package LeetCode;
 
-
-
 public class IndexOfFirstSubString {
 
     public static int indexOfSubstring(String str, String sub){
